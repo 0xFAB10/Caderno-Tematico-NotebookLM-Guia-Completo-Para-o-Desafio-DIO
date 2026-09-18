@@ -24,10 +24,9 @@ Foram selecionadas **4 fontes abertas** de qualidade reconhecida para alimentar 
 
 | # | Fonte | Tipo | Link |
 |---|-------|------|------|
-| 1 | **“Histories of the Internet and the Web”** — University of Luxembourg | PDF Livro | https://publications.uni.lu/handle/10993/35250 |
+| 1 | **“Histories of the Internet and the Web”** — University of Luxembourg | PDF Livro | https://orbilu.uni.lu/bitstream/10993/35250/1/Introduction%20Histories%20of%20the%20Internet.pdf|
 | 2 | **“A Sociedade em Rede Vol. I”** — Manuel Castells | Texto completo | http://archive.org/stream/CASTELLSManuel.ASociedadeEmRedeVol.I1/ |
 | 3 | **“The Unbearable Light(ness) of AI”** — Università Cattolica | PDF Livro | https://zenodo.org/records/20577753 |
-| 4 | **“ARTIFICIAL INTELLIGENCE THE FUTURE IS ALREADY HERE”** — Zenodo | PDF Artigo | https://zenodo.org/records/20465155 |
 
 **Critérios de seleção**: fontes abertas, com licença de acesso livre, cobrindo tanto os fundamentos técnicos (história da Internet, redes) quanto o contexto atual de IA aplicada a sistemas de informação.
 
